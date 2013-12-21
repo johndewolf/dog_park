@@ -2,6 +2,6 @@
 
 FactoryGirl.define do
   factory :dog do
-    name "MyString"
+    name "Ruby"
   end
 end
